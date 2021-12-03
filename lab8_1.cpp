@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    double a  =  20; 
+    double a = 20; 
     double b = 30;
     double c = 4;
     double output;
